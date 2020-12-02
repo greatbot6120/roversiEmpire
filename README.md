@@ -1,2 +1,0 @@
-# roversiEmpire
-Appunti
