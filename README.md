@@ -36,3 +36,5 @@ while ("condizione di ripetizione")  {
 
 >Se *P(0)*è vero, e, per ogni *k* non negativo, la verità di *P(K)* implica la verità di *P(K+1)*, allora *P(K)* è vero per ogni k non negativo.
 
+
+>questo è un paragrafo che sto aggiungendo per poi fare git commit!
